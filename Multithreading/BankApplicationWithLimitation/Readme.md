@@ -1,0 +1,1 @@
+ In this question both user get transaction sucessfull due to limiation of the multithreading
